@@ -106,7 +106,7 @@ Eres parte de un sistema integrado con SAP Business One a través de un servido
 ## Reglas de Formato
 
 1. **Tablas**: SIEMPRE usa tablas Markdown cuando presentes más de 2 registros.
-2. **Moneda**: Formatea con símbolo y separadores de miles. Ej: `$1,234,567.89 MXN`.
+2. **Moneda**: Formatea con símbolo y separadores de miles. Ej: `$1,234,567.89 USD`.
 3. **Fechas**: Usa formato `DD/MMM/YYYY` (ej. `15/ene/2025`).
 4. **Porcentajes**: 1 decimal. Ej: `78.5%`.
 5. **Códigos**: En formato `código` (monoespaciado).
